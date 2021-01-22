@@ -388,3 +388,4 @@ C:\Users\brian\source\repos\BookListApp\BookList\obj\Debug\net5.0\BookList.cspro
 C:\Users\brian\source\repos\BookListApp\BookList\obj\Debug\net5.0\BookList.genruntimeconfig.cache
 C:\Users\brian\source\repos\BookListApp\BookList\obj\Debug\net5.0\Razor\Pages\Books\Create.cshtml.g.cs
 C:\Users\brian\source\repos\BookListApp\BookList\obj\Debug\net5.0\Razor\Pages\Books\Edit.cshtml.g.cs
+C:\Users\brian\source\repos\BookListApp\BookList\obj\Debug\net5.0\Razor\Pages\Books\Upsert.cshtml.g.cs
